@@ -6,11 +6,17 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
+## Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
-
-- [Awesome VTK \*](#awesome-vtk-)
+- [Applications](#applications)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Applications
+
+- [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
+- [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
+- [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
