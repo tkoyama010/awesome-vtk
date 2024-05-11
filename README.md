@@ -14,6 +14,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Official](#official)
 - [Applications](#applications)
 - [Higher-level interfaces in Python](#higher-level-interfaces-in-python)
+- [Books](#books)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -33,3 +34,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
+
+## Books
+
+- [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
