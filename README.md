@@ -11,10 +11,17 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Official](#official)
 - [Applications](#applications)
 - [Higher-level interfaces in Python](#higher-level-interfaces-in-python)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Official
+
+- [Website](https://vtk.org/)
+- [Documentation](https://docs.vtk.org/en/latest/)
+- [Repository](https://gitlab.kitware.com/vtk/vtk)
 
 ## Applications
 
