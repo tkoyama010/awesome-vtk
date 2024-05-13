@@ -1,8 +1,8 @@
-## What is this Python Dataviz tool?
+## What is this VTK tool?
 
 Describe features.
 
-## What's the difference between this Python Dataviz tool and similar ones?
+## What's the difference between this VTK tool and similar ones?
 
 Enumerate comparisons.
 
