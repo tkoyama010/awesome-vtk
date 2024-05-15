@@ -1,3 +1,5 @@
+# Contribution Guidelines
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -9,8 +11,6 @@
   - [Updating your Pull Request](#updating-your-pull-request)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Contribution Guidelines
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
