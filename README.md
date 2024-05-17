@@ -17,6 +17,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Official](#official)
 - [Applications](#applications)
+- [Web](#web)
 - [Higher-level interfaces in Python](#higher-level-interfaces-in-python)
 - [Books](#books)
 
@@ -33,6 +34,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
+
+## Web
+
+- [vtk-js](https://github.com/Kitware/vtk-js) - Visualization Toolkit for the Web
 
 ## Higher-level interfaces in Python
 
