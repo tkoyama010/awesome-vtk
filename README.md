@@ -17,6 +17,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Official](#official)
 - [Applications](#applications)
+- [Web](#web)
 - [Higher-level interfaces in Python](#higher-level-interfaces-in-python)
 - [Books](#books)
 
