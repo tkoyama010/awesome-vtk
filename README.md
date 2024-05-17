@@ -34,6 +34,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
 
+## Web
+
+- [vtk-js](https://github.com/Kitware/vtk-js) - Visualization Toolkit for the Web
+
 ## Higher-level interfaces in Python
 
 - [Mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
