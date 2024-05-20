@@ -46,6 +46,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
+- [meshio](https://github.com/nschloe/meshio) - 🕸️ input/output for many mesh formats
 
 ## Books
 
