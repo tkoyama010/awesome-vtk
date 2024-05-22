@@ -34,7 +34,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
-- [f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
+- [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [GammaRay](https://github.com/PauloCarvalhoRJ/gammaray) - A graphical interface to GSLib (geostatistics library) and other geomodeling algorithms.
 
 ## Web
