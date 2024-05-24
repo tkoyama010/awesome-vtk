@@ -41,6 +41,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Web
 
 - [vtk-js](https://github.com/Kitware/vtk-js) - Visualization Toolkit for the Web
+- [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
 
 ## Higher-level interfaces in Python
 
