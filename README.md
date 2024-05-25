@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [3D Viewer](#3d-viewer)
 - [Books](#books)
 - [Jupyter](#jupyter)
+- [Medical imaging](#medical-imaging)
 - [Official](#official)
 - [Python](#python)
 - [Web](#web)
@@ -38,6 +39,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Jupyter
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
+
+## Medical imaging
+
+- [MITK](<https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)>) - The Medical Imaging Interaction Toolkit.
 
 ## Official
 
