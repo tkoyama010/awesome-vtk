@@ -39,6 +39,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
 
+## Medical imaging
+
+- [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit.
+
 ## Official
 
 - [Documentation](https://docs.vtk.org/en/latest/)
