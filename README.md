@@ -27,6 +27,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## 3D Viewer
 
+- [BVTKNodes](https://github.com/tkeskita/BVtkNodes) - Create and execute VTK pipelines in Blender Node Editor
 - [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [GammaRay](https://github.com/PauloCarvalhoRJ/gammaray) - A graphical interface to GSLib (geostatistics library) and other geomodeling algorithms.
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
