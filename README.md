@@ -55,6 +55,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Python
 
 - [Dash VTK](https://github.com/plotly/dash-vtk) - Bringing vtk.js into Dash and Python
+- [GeoVista](https://geovista.readthedocs.io/en/latest/) - Cartographic rendering and mesh analytics powered by PyVista
 - [Mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
