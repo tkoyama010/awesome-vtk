@@ -45,6 +45,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
 - [MITK](<https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)>) - The Medical Imaging Interaction Toolkit.
+- [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
 
 ## Official
 
