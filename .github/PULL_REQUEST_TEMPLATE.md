@@ -1,27 +1,38 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Checklist for all pull requests:](#checklist-for-all-pull-requests)
+  - [Checklist for new software projects:](#checklist-for-new-software-projects)
+  - [Checklist for new Data Repositories, Tutorials and Cheat Sheets, and Miscellaneous:](#checklist-for-new-data-repositories-tutorials-and-cheat-sheets-and-miscellaneous)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- Thank you for contributing to our list! -->
 <!-- Please write a DESCRIPTIVE TITLE for the pull request and commits. -->
 
+**Project name:**
 
-__Project name:__
+**Project website/repository:**
 
-__Project website/repository:__
+**License:**
 
-__License:__
+**Submission type:**
 
-__Submission type:__
 <!-- Submission type can be one of "New Software Project", "New Data Repository", "New Tutorial or Cheat Sheet", "New Miscellaneous", or "Fix/update existing entry" -->
-
 
 <!-- In the following checklist, an empty check-box is "[ ]", a checked check-box is "[x]". You can also interactively click the boxes once the PR is submitted. -->
 
 ## Checklist for all pull requests:
+
 <!-- If adding a project to the list, make sure it fulfills the following criteria. -->
 
 <!-- Make sure it's "certified awesome"! -->
+
 - [ ] Project is [`certified awesome`](awesome.md)
 
 <!-- General requirements -->
+
 - [ ] The project is [open-source](https://opensource.org/licenses/alphabetical) and accessible.
 - [ ] Searched the existing entries to make sure this is not a duplicate.
 - [ ] Contains only a single addition (make separate PRs if adding more than one).
@@ -29,12 +40,12 @@ __Submission type:__
 - [ ] Created a new category only if necessary.
 
 <!-- Formatting criteria -->
+
 - [ ] Add icon from the `media/icon/` folder if applicable (e.g., `![Python](media/icon/python.png)` ).
 - [ ] Checked spelling and grammar.
 - [ ] Removed trailing whitespace and periods.
 - [ ] Confirm the dash – is not a minus -.
 - [ ] Used [title-casing](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case) (AP style) for project name.
-
 
 ### Checklist for new software projects:
 
@@ -43,7 +54,6 @@ __Submission type:__
 - [ ] Documentation looks great
 - [ ] Examples or Tutorials to follow
 - [ ] Tests and Travis CI running
-
 
 ### Checklist for new Data Repositories, Tutorials and Cheat Sheets, and Miscellaneous:
 
