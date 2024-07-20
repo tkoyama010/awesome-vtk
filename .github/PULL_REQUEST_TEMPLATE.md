@@ -1,16 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Checklist for all pull requests:](#checklist-for-all-pull-requests)
-  - [Checklist for new software projects:](#checklist-for-new-software-projects)
-  - [Checklist for new Data Repositories, Tutorials and Cheat Sheets, and Miscellaneous:](#checklist-for-new-data-repositories-tutorials-and-cheat-sheets-and-miscellaneous)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- Thank you for contributing to our list! -->
-<!-- Please write a DESCRIPTIVE TITLE for the pull request and commits. -->
-
 **Project name:**
 
 **Project website/repository:**
