@@ -28,7 +28,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Official](#official)
 - [Python](#python)
 - [Web](#web)
-- [Contributors ✨](#contributors-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
