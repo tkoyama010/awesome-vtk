@@ -37,6 +37,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "mwestphal",
+      "name": "Mathieu Westphal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3129530?v=4",
+      "profile": "https://github.com/mwestphal",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
