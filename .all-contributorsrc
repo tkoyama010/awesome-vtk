@@ -28,6 +28,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "pre-commit",
+      "name": "pre-commit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6943086?v=4",
+      "profile": "https://pre-commit.com",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
