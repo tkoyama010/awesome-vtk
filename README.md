@@ -1,12 +1,11 @@
-# Awesome VTK [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome VTK
 
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
 
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="Visualization_Toolkit_logo" width="200"/>
-</p>
+<a href="https://vtk.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="VTK Logo" align="left" style="margin-right: 25px" height=150/>
 
-> A curated list of awesome stuff related to VTK.
+> The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.
 
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
