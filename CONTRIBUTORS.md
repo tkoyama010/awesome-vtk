@@ -12,6 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/tkoyama010/awesome-vtk/commits?author=all-contributors" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://pre-commit.com"><img src="https://avatars.githubusercontent.com/u/6943086?v=4?s=100" width="100px;" alt="pre-commit"/><br /><sub><b>pre-commit</b></sub></a><br /><a href="#maintenance-pre-commit" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mwestphal"><img src="https://avatars.githubusercontent.com/u/3129530?v=4?s=100" width="100px;" alt="Mathieu Westphal"/><br /><sub><b>Mathieu Westphal</b></sub></a><br /><a href="https://github.com/tkoyama010/awesome-vtk/commits?author=mwestphal" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/PauloCarvalhoRJ"><img src="https://avatars.githubusercontent.com/u/6398896?v=4?s=100" width="100px;" alt="Paulo Carvalho"/><br /><sub><b>Paulo Carvalho</b></sub></a><br /><a href="https://github.com/tkoyama010/awesome-vtk/commits?author=PauloCarvalhoRJ" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
