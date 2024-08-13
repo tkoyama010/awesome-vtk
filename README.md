@@ -39,6 +39,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
 
+## Geoscience
+
+- [vtk_triangulate_points](https://github.com/pemn/vtk_triangulate_points) – Creates simplified surfaces from dense point clouds.
+
 ## Jupyter
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
