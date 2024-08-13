@@ -19,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [3D Viewer](#3d-viewer)
 - [Books](#books)
+- [Geoscience](#geoscience)
 - [Jupyter](#jupyter)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
