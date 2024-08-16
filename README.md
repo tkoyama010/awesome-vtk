@@ -68,6 +68,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 
+## Related Topics
+
+- [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista 😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 ## Web
 
 - [vtk-js](https://github.com/Kitware/vtk-js) - Visualization Toolkit for the Web
