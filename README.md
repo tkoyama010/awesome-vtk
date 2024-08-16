@@ -23,6 +23,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
 - [Python](#python)
+- [Related Topics](#related-topics)
 - [Web](#web)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
