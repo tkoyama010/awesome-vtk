@@ -46,6 +46,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Medical imaging
 
+- [Common Toolkit (CTK)](https://github.com/commontk/CTK) - A set of common support code for medical imaging, surgical navigation, and related purposes.
 - [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
 - [ITK-Wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser and across programming languages and hardware architectures.
 - [MITK](<https://www.mitk.org/wiki/The*Medical_Imaging_Interaction_Toolkit*(MITK)>) - The Medical Imaging Interaction Toolkit.
