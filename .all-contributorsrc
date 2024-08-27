@@ -19,7 +19,8 @@
         "maintenance",
         "doc",
         "review",
-        "promotion"
+        "promotion",
+        "code"
       ]
     },
     {
