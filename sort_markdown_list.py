@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-import sys
 import re
+import sys
 
 
 def sort_markdown_list(file_path):
-    with open(file_path, "r") as file:
+    with open(file_path) as file:
         lines = file.readlines()
 
     sorted_lines = []
@@ -19,7 +19,8 @@ def sort_markdown_list(file_path):
         else:
             if in_list:
                 sorted_lines += sorted(
-                    list_block, key=lambda x: x.lower()
+                    list_block,
+                    key=lambda x: x.lower(),
                 )  # Sort ignoring case
                 list_block = []
             sorted_lines.append(line)
