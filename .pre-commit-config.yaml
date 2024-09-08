@@ -39,3 +39,10 @@ repos:
     hooks:
       - id: doctoc
         exclude: ^(.github/|CONTRIBUTORS.md)
+  - repo: local
+    hooks:
+      - id: sort-markdown-list
+        name: Sort Markdown List
+        entry: python3 sort_markdown_list.py
+        language: python
+        files: README.md

@@ -47,8 +47,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Medical imaging
 
 - [Common Toolkit (CTK)](https://github.com/commontk/CTK) - A set of common support code for medical imaging, surgical navigation, and related purposes.
-- [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
 - [ITK-Wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser and across programming languages and hardware architectures.
+- [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
 - [MITK](<https://www.mitk.org/wiki/The*Medical_Imaging_Interaction_Toolkit*(MITK)>) - The Medical Imaging Interaction Toolkit.
 - [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
 
@@ -64,9 +64,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Dash VTK](https://github.com/plotly/dash-vtk) - Bringing vtk.js into Dash and Python
 - [GeoVista](https://geovista.readthedocs.io/en/latest/) - Cartographic rendering and mesh analytics powered by PyVista
 - [Mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
+- [meshio](https://github.com/nschloe/meshio) - 🕸️ input/output for many mesh formats
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
-- [meshio](https://github.com/nschloe/meshio) - 🕸️ input/output for many mesh formats
 - [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 
