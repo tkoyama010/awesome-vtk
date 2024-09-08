@@ -4,7 +4,7 @@ ci:
   autoupdate_schedule: weekly
 repos:
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.29.1
+    rev: 0.29.2
     hooks:
       - id: check-github-workflows
   - repo: https://github.com/codespell-project/codespell
@@ -39,3 +39,16 @@ repos:
     hooks:
       - id: doctoc
         exclude: ^(.github/|CONTRIBUTORS.md)
+  - repo: local
+    hooks:
+      - id: sort-markdown-list
+        name: Sort Markdown List
+        entry: python3 sort_markdown_list.py
+        language: python
+        files: README.md
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.6.2
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
