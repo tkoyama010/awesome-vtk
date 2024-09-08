@@ -1,9 +1,13 @@
+"""Sorts the list items in a markdown file in-place."""
+
 import re
 import sys
+from pathlib import Path
 
 
-def sort_markdown_list(file_path):
-    with open(file_path) as file:
+def sort_markdown_list(file_path: str) -> None:
+    """Sorts the list items in a markdown file in-place."""
+    with Path(file_path).open() as file:
         lines = file.readlines()
 
     sorted_lines = []
@@ -29,7 +33,7 @@ def sort_markdown_list(file_path):
         sorted_lines += sorted(list_block, key=lambda x: x.lower())
 
     # Write the sorted content back to the file
-    with open(file_path, "w") as file:
+    with Path(file_path).open("w") as file:
         file.writelines(sorted_lines)
 
 
