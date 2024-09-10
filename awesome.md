@@ -70,15 +70,9 @@ Some licenses that are **_not_** open and **cannot be included**:
 - [Oculus Rift SDK License](http://directory.fsf.org/wiki/License:Oculus_VR_Rift_SDK_License)
 - More exhaustive lists: [Software](http://www.gnu.org/licenses/license-list.html#NonFreeSoftwareLicenses) and [Others](http://www.gnu.org/licenses/license-list.html#NonFreeDocumentationLicenses)
 
-| ▲ [Top](#our-definition-of-awesome) |
-| ----------------------------------- |
-
 # Project Community Guidelines
 
 Awesome projects make it easy to get involved with. Tell the community, how you would like your issues and pull requests and how you credit them when they contribute to the software, report issues or problems with the software or simply seek support.
-
-| ▲ [Top](#our-definition-of-awesome) |
-| ----------------------------------- |
 
 # Datasets
 
@@ -96,15 +90,9 @@ Awesome datasets contain a full description of the data included and information
 
 Awesome datasets make it easy to obtain the data. Tell the community, how they can best obtain the data in the most stable way.
 
-| ▲ [Top](#our-definition-of-awesome) |
-| ----------------------------------- |
-
 # Publications and Cheat Sheets
 
 Awesome publications make it easy for the reader to navigate and obtain the information they need. These publications condense information in a unique way or offer a complete, exhaustive and comprehensive overview of a topic.
-
-| ▲ [Top](#our-definition-of-awesome) |
-| ----------------------------------- |
 
 # Software
 
