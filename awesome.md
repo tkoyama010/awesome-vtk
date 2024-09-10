@@ -1,3 +1,13 @@
+# Our Definition of Awesome
+
+If you want a project to be included in this `awesome` list, please check our definition of awesome. After all, it's a curation, not a collection. We base it loosely on the [manifesto of the Journal of Open Source Software (JOSS)](https://joss.readthedocs.io/en/latest/review_criteria.html). We say loosely, because their standards are higher. Our definition of awesome is more like guidelines to aim for and less like a strict set of rules. If you're new to coding and aren't sure if something qualifies, submit a pull request following the [contribution guidelines](contributing.md) and maintainers will help you out!
+
+For now, we choose English as a common language for the list and as acceptable contributions to the list.
+
+But **what is awesome?**
+
+# Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -22,33 +32,6 @@
   - [Software Tests](#software-tests)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Our Definition of Awesome
-
-If you want a project to be included in this `awesome` list, please check our definition of awesome. After all, it's a curation, not a collection. We base it loosely on the [manifesto of the Journal of Open Source Software (JOSS)](https://joss.readthedocs.io/en/latest/review_criteria.html). We say loosely, because their standards are higher. Our definition of awesome is more like guidelines to aim for and less like a strict set of rules. If you're new to coding and aren't sure if something qualifies, submit a pull request following the [contribution guidelines](contributing.md) and maintainers will help you out!
-
-For now, we choose English as a common language for the list and as acceptable contributions to the list.
-
-But **what is awesome?**
-
-# Contents
-
-- [Open Licensing](#choose-an-appropriate-license)
-  - [Software](#software)
-  - [Non - Software](#non-software)
-  - [Unacceptable](#unacceptable-licenses)
-- [Project Community Guidelines](#project-community-guidelines)
-- [Publications and Cheat Sheets](#publicationsand-cheat-sheets)
-- [Datasets](#datasets)
-  - [Dataset Documentation](#dataset-documentation)
-  - [Download Instructions](#download-instructions)
-- [Software](#software)
-  - [Software Documentation](#software-documentation)
-    - [Readme](#readme)
-    - [Installation Instructions](#installation-instructions)
-    - [Examples and Tutorials](#examples-and-tutorials)
-    - [API Documentation](#api-documentation)
-  - [Software Tests](#software-tests)
 
 # Choose an appropriate license
 
