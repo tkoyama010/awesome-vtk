@@ -138,6 +138,3 @@ Tests can also be non-applicable for certain projects and are sometimes really h
     Uber-Awesome: Full coverage of all tests, automatically executed and instructions to test by hand
     Awesome: An automated test suite hooked up to an external service such as Travis-CI or similar
     Awesome-ish (If we're in a really good mood): Documented manual steps that can be followed to objectively check the expected functionality of the software
-
-| ▲ [Top](#our-definition-of-awesome) |
-| ----------------------------------- |
