@@ -23,6 +23,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
 - [Python](#python)
+- [Qt](#qt)
 - [Related Topics](#related-topics)
 - [Web](#web)
 
