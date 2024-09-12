@@ -70,6 +70,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 
+## Qt
+
+- [QuickVtk](https://github.com/qCring/QuickVtk) - A VTK prototyping application based on QtQuick/QML
+
 ## Related Topics
 
 - [Awesome Finite Element Method (FEM)](https://github.com/tkoyama010/awesome-finite-elements) - A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
