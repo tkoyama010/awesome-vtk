@@ -22,6 +22,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Jupyter](#jupyter)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
+- [Paper](#paper)
 - [Python](#python)
 - [Related Topics](#related-topics)
 - [Web](#web)
@@ -58,6 +59,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Examples](https://examples.vtk.org/site/)
 - [Repository](https://gitlab.kitware.com/vtk/vtk)
 - [Website](https://vtk.org/)
+
+## Paper
+
+- [The design and implementation of an object-oriented toolkit for 3D graphics and visualization](https://ieeexplore.ieee.org/document/567752) - W. J. Schroeder, K. M. Martin and W.
 
 ## Python
 
