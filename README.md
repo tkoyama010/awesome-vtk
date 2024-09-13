@@ -22,6 +22,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Jupyter](#jupyter)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
+- [Paper](#paper)
 - [Python](#python)
 - [Related Topics](#related-topics)
 - [Web](#web)
