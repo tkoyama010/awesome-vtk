@@ -58,6 +58,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Examples](https://examples.vtk.org/site/)
 - [Repository](https://gitlab.kitware.com/vtk/vtk)
 - [Website](https://vtk.org/)
+- [ParaView Documentation](https://docs.paraview.org/)
 
 ## Python
 
