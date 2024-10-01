@@ -23,6 +23,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
 - [Python](#python)
+- [Qt](#qt)
 - [Related Topics](#related-topics)
 - [Web](#web)
 
@@ -69,6 +70,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
 - [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
+
+## Qt
+
+- [QuickVtk](https://github.com/qCring/QuickVtk) - A VTK prototyping application based on QtQuick/QML
 
 ## Related Topics
 
