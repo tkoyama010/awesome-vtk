@@ -54,8 +54,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Official
 
-- [Documentation](https://docs.vtk.org/en/latest/)
 - [Discourse](http://discourse.vtk.org/)
+- [Documentation](https://docs.vtk.org/en/latest/)
 - [Examples](https://examples.vtk.org/site/)
 - [Repository](https://gitlab.kitware.com/vtk/vtk)
 - [Website](https://vtk.org/)
