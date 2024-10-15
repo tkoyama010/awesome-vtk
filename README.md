@@ -57,6 +57,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Discourse](http://discourse.vtk.org/)
 - [Documentation](https://docs.vtk.org/en/latest/)
 - [Examples](https://examples.vtk.org/site/)
+- [ParaView Documentation](https://docs.paraview.org/)
 - [Repository](https://gitlab.kitware.com/vtk/vtk)
 - [Website](https://vtk.org/)
 
