@@ -68,11 +68,11 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
 - [meshio](https://github.com/nschloe/meshio) - 🕸️ input/output for many mesh formats
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [SpinView](https://github.com/MXJK851/SpinView) - SpinView: General interactive visual analysis tool for multi-scale computational magnetism
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
 - [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [vtkbool](https://github.com/zippy84/vtkbool) - A new boolean operations filter for VTK
-- [SpinView](https://github.com/MXJK851/SpinView) - SpinView: General interactive visual analysis tool for multi-scale computational magnetism
 
 ## Related Topics
 
