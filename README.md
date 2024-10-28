@@ -3,7 +3,9 @@
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="Visualization_Toolkit_logo" width="200"/>
+    <a href="https://vtk.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="Visualization_Toolkit_logo" width="200"/>
+    </a>
 </p>
 
 > The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.
