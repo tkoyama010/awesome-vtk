@@ -3,7 +3,9 @@
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="Visualization_Toolkit_logo" width="200"/>
+    <a href="https://vtk.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="Visualization_Toolkit_logo" width="200"/>
+    </a>
 </p>
 
 > The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.
@@ -57,6 +59,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Discourse](http://discourse.vtk.org/)
 - [Documentation](https://docs.vtk.org/en/latest/)
 - [Examples](https://examples.vtk.org/site/)
+- [ParaView Documentation](https://docs.paraview.org/)
 - [Repository](https://gitlab.kitware.com/vtk/vtk)
 - [Website](https://vtk.org/)
 
@@ -70,6 +73,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
 - [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
+- [vtkbool](https://github.com/zippy84/vtkbool) - A new boolean operations filter for VTK
 
 ## Related Topics
 
