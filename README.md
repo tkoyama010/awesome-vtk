@@ -35,9 +35,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [BVTKNodes](https://github.com/tkeskita/BVtkNodes) - Create and execute VTK pipelines in Blender Node Editor
 - [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [GammaRay](https://github.com/PauloCarvalhoRJ/gammaray) - A graphical interface to GSLib (geostatistics library) and other geomodeling algorithms.
+- [LidarView](https://github.com/Kitware/LidarView) - LidarView performs real-time reception, recording, visualization and processing of 3D LiDAR data.
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
-- [LidarView](https://github.com/Kitware/LidarView) - LidarView performs real-time reception, recording, visualization and processing of 3D LiDAR data.
 
 ## Books
 
