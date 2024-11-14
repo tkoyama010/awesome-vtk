@@ -37,6 +37,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [GammaRay](https://github.com/PauloCarvalhoRJ/gammaray) - A graphical interface to GSLib (geostatistics library) and other geomodeling algorithms.
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
+- [LidarView](https://github.com/Kitware/LidarView) - LidarView performs real-time reception, recording, visualization and processing of 3D LiDAR data.
 
 ## Books
 
