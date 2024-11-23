@@ -78,9 +78,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Related Topics
 
-- [Awesome Finite Element Method (FEM)](https://github.com/tkoyama010/awesome-finite-elements) - A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-- [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista 😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-- [Awesome scientific-visualization](https://github.com/tkoyama010/awesome-scientific-visualization) - A curated list of awesome stuff related to scientific-visualization 😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Awesome Finite Element Method (FEM)](https://github.com/tkoyama010/awesome-finite-elements) - A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering😎
+- [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista 😎
+- [Awesome scientific-visualization](https://github.com/tkoyama010/awesome-scientific-visualization) - A curated list of awesome stuff related to scientific-visualization 😎
 - [Wikipedia](https://en.wikipedia.org/wiki/VTK) - The free encyclopedia that anyone can edit.
 
 ## Web
