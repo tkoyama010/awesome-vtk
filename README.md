@@ -52,7 +52,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [ITK-Wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser and across programming languages and hardware architectures.
 - [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
 - [MITK](<https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)>) - The Medical Imaging Interaction Toolkit.
-- [PYCAD](https://github.com/amine0110/pycad) - The comprehensive library designed to simplify and streamline medical imaging tasks.
+- [PYCAD](https://github.com/amine0110/pycad) - The Comprehensive Library Designed to Simplify and Streamline Medical Imaging Tasks.
 - [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
 
 ## Official
