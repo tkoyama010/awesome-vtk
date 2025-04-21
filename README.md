@@ -55,6 +55,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [PYCAD](https://github.com/amine0110/pycad) - The Comprehensive Library Designed to Simplify and Streamline Medical Imaging Tasks.
 - [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
 
+## Object-oriented programming
+
+- [VTKFortran](https://github.com/szaghi/VTKFortran) - A KISS pure Fortran Library to parse and emit files conforming VTK (XML) standard.
+
 ## Official
 
 - [Discourse](http://discourse.vtk.org/)
@@ -68,7 +72,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Dash VTK](https://github.com/plotly/dash-vtk) - Bringing vtk.js into Dash and Python
 - [GeoVista](https://geovista.readthedocs.io/en/latest/) - Cartographic rendering and mesh analytics powered by PyVista
 - [Mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
-- [meshio](https://github.com/nschloe/meshio) - 🕸️ input/output for many mesh formats
+- [meshio](https://github.com/nschloe/meshio) -  input/output for many mesh formats
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [SpinView](https://github.com/MXJK851/SpinView) - SpinView: General interactive visual analysis tool for multi-scale computational magnetism
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
@@ -78,9 +82,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Related Topics
 
-- [Awesome Finite Element Method (FEM)](https://github.com/tkoyama010/awesome-finite-elements) - A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering😎
-- [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista 😎
-- [Awesome scientific-visualization](https://github.com/tkoyama010/awesome-scientific-visualization) - A curated list of awesome stuff related to scientific-visualization 😎
+- [Awesome Finite Element Method (FEM)](https://github.com/tkoyama010/awesome-finite-elements) - A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering
+- [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista 
+- [Awesome scientific-visualization](https://github.com/tkoyama010/awesome-scientific-visualization) - A curated list of awesome stuff related to scientific-visualization 
 - [Wikipedia](https://en.wikipedia.org/wiki/VTK) - The free encyclopedia that anyone can edit.
 
 ## Web
