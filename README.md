@@ -21,9 +21,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [3D Viewer](#3d-viewer)
 - [Books](#books)
+- [Fortran](#fortran)
 - [Jupyter](#jupyter)
 - [Medical imaging](#medical-imaging)
-- [Object-oriented programming](#object-oriented-programming)
 - [Official](#official)
 - [Python](#python)
 - [Related Topics](#related-topics)
@@ -43,6 +43,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
 
+## Fortran
+
+- [VTKFortran](https://github.com/szaghi/VTKFortran) - A KISS pure Fortran Library to parse and emit files conforming VTK (XML) standard.
+
 ## Jupyter
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
@@ -55,10 +59,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [MITK](<https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)>) - The Medical Imaging Interaction Toolkit.
 - [PYCAD](https://github.com/amine0110/pycad) - The Comprehensive Library Designed to Simplify and Streamline Medical Imaging Tasks.
 - [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
-
-## Object-oriented programming
-
-- [VTKFortran](https://github.com/szaghi/VTKFortran) - A KISS pure Fortran Library to parse and emit files conforming VTK (XML) standard.
 
 ## Official
 
