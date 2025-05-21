@@ -39,13 +39,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 
-## Books
-
-- [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
-
 ## Blogs
 
 - [Bridging Data and Visualization](https://www.kitware.com/bridging-data-and-visualization-interactive-scientific-exploration-with-vtk-xarray-interoperability/) - Interactive Scientific Exploration with VTK-Xarray Interoperability
+
+## Books
+
+- [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
 
 ## Jupyter
 
