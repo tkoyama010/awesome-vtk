@@ -1,6 +1,6 @@
 # Awesome VTK ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-# Add Contributor Covenant Code of Conduct badge AI!
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
 
 <p align="center">
