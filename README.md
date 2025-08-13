@@ -22,6 +22,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [3D Viewer](#3d-viewer)
 - [Books](#books)
+- [Geoscience](#geoscience)
 - [Jupyter](#jupyter)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
@@ -42,6 +43,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Books
 
 - [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
+
+## Geoscience
+
+- [vtk_triangulate_points](https://github.com/pemn/vtk_triangulate_points) – Creates simplified surfaces from dense point clouds.
 
 ## Jupyter
 
