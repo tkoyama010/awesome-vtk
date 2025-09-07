@@ -59,6 +59,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "claude",
+      "name": "Claude",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81847?v=4",
+      "profile": "https://anthropic.com/claude-code",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
