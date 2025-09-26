@@ -43,6 +43,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Books
 
 - [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
+- [vtk-xref](https://github.com/pyvista/vtk-xref) - Sphinx extension for linking directly to VTK's documentation.
 
 ## Jupyter
 
