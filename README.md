@@ -1,5 +1,6 @@
-# Awesome VTK [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome VTK ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
 
 <p align="center">
@@ -42,6 +43,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Books
 
 - [VTK Book](https://github.com/Kitware/vtk-book) - Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics
+- [vtk-xref](https://github.com/pyvista/vtk-xref) - Sphinx extension for linking directly to VTK's documentation.
 
 ## Jupyter
 
@@ -52,7 +54,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Common Toolkit (CTK)](https://github.com/commontk/CTK) - A set of common support code for medical imaging, surgical navigation, and related purposes.
 - [ITK-Wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser and across programming languages and hardware architectures.
 - [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
-- [MITK](<https://www.mitk.org/wiki/The*Medical_Imaging_Interaction_Toolkit*(MITK)>) - The Medical Imaging Interaction Toolkit.
+- [MITK](<https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)>) - The Medical Imaging Interaction Toolkit.
+- [PYCAD](https://github.com/amine0110/pycad) - The Comprehensive Library Designed to Simplify and Streamline Medical Imaging Tasks.
 - [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
 
 ## Official
@@ -62,15 +65,15 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Examples](https://examples.vtk.org/site/)
 - [ParaView Documentation](https://docs.paraview.org/)
 - [Repository](https://gitlab.kitware.com/vtk/vtk)
-- [Website](https://vtk.org/)
 
 ## Python
 
 - [Dash VTK](https://github.com/plotly/dash-vtk) - Bringing vtk.js into Dash and Python
 - [GeoVista](https://geovista.readthedocs.io/en/latest/) - Cartographic rendering and mesh analytics powered by PyVista
 - [Mayavi](https://github.com/enthought/mayavi) - 3D visualization of scientific data in Python
-- [meshio](https://github.com/nschloe/meshio) - 🕸️ input/output for many mesh formats
+- [meshio](https://github.com/nschloe/meshio) - input/output for many mesh formats
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [SpinView](https://github.com/MXJK851/SpinView) - SpinView: General interactive visual analysis tool for multi-scale computational magnetism
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
 - [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
@@ -82,9 +85,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Related Topics
 
-- [Awesome Finite Element Method (FEM)](https://github.com/tkoyama010/awesome-finite-elements) - A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-- [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista 😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-- [Awesome scientific-visualization](https://github.com/tkoyama010/awesome-scientific-visualization) - A curated list of awesome stuff related to scientific-visualization 😎 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Awesome Finite Element Method (FEM)](https://github.com/tkoyama010/awesome-finite-elements) - A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering
+- [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista
+- [Awesome scientific-visualization](https://github.com/tkoyama010/awesome-scientific-visualization) - A curated list of awesome stuff related to scientific-visualization
 - [Wikipedia](https://en.wikipedia.org/wiki/VTK) - The free encyclopedia that anyone can edit.
 
 ## Web

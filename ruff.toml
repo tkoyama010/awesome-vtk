@@ -1,7 +1,3 @@
 [lint]
+ignore = ["COM812", "D203", "D212"]
 select = ["ALL"]
-ignore = [
-    "COM812",
-    "D203",
-    "D212",
-]

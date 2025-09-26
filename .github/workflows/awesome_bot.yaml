@@ -1,0 +1,25 @@
+name: Ruby
+on:
+  push:
+    branches: ["*"]
+  pull_request:
+    branches: ["*"]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+      issues: read
+      repository-projects: read
+    steps:
+      - uses: actions/checkout@09d2acae674a48949e3602304ab46fd20ae0c42f
+        with:
+          persist-credentials: false
+      - name: Set up Ruby 2.6
+        uses: ruby/setup-ruby@13e7a03dc3ac6c3798f4570bfead2aed4d96abfb
+        with:
+          ruby-version: 2.6.10
+      - name: Checks
+        run: |
+          gem install awesome_bot
+          awesome_bot --allow-redirect --request-delay 1 README.md
