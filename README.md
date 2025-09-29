@@ -37,6 +37,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [GammaRay](https://github.com/PauloCarvalhoRJ/gammaray) - A graphical interface to GSLib (geostatistics library) and other geomodeling algorithms.
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
+- [QuickVtk](https://github.com/qCring/QuickVtk) - A VTK prototyping application based on QtQuick/QML
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 
 ## Books
