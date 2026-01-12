@@ -28,6 +28,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Official](#official)
 - [Python](#python)
 - [Related Topics](#related-topics)
+- [Rust](#rust)
 - [Web](#web)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -89,6 +90,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Awesome PyVista](https://github.com/pyvista/awesome-pyvista) - A curated list of awesome stuff related to PyVista
 - [Awesome scientific-visualization](https://github.com/tkoyama010/awesome-scientific-visualization) - A curated list of awesome stuff related to scientific-visualization
 - [Wikipedia](https://en.wikipedia.org/wiki/VTK) - The free encyclopedia that anyone can edit.
+
+## Rust
+
+- [vtkio](https://github.com/elrnv/vtkio) - A parser and writer for the Visualization Toolkit (VTK) file formats.
 
 ## Web
 
