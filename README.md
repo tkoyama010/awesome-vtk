@@ -97,4 +97,5 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Web
 
+- [ParaView Visualizer](https://github.com/Kitware/paraview-visualizer) - Web frontend to ParaView based on trame
 - [vtk-js](https://github.com/Kitware/vtk-js) - Visualization Toolkit for the Web
