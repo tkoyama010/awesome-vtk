@@ -21,6 +21,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [3D Viewer](#3d-viewer)
+- [Blogs](#blogs)
 - [Books](#books)
 - [Fortran](#fortran)
 - [Jupyter](#jupyter)
@@ -40,6 +41,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [GammaRay](https://github.com/PauloCarvalhoRJ/gammaray) - A graphical interface to GSLib (geostatistics library) and other geomodeling algorithms.
 - [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
+
+## Blogs
+
+- [Bridging Data and Visualization](https://www.kitware.com/bridging-data-and-visualization-interactive-scientific-exploration-with-vtk-xarray-interoperability/) - Interactive Scientific Exploration with VTK-Xarray Interoperability
 
 ## Books
 
