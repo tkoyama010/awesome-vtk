@@ -97,4 +97,5 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Web
 
+- [pyvista-js](https://github.com/tkoyama010/pyvista-js) - PyVista-like API for vtk.js
 - [vtk-js](https://github.com/Kitware/vtk-js) - Visualization Toolkit for the Web
