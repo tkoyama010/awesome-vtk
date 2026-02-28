@@ -24,6 +24,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Books](#books)
 - [Fortran](#fortran)
 - [Jupyter](#jupyter)
+- [Large Language Model](#large-language-model)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
 - [Python](#python)
@@ -52,6 +53,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Jupyter
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
+
+## Large Language Model
+
+- [vtk-prompt](https://github.com/Kitware/vtk-prompt) - A command-line interface and web-based UI for generating VTK visualization code using Large Language Models
 
 ## Medical imaging
 
