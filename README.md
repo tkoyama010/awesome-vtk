@@ -24,6 +24,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Books](#books)
 - [Fortran](#fortran)
 - [Jupyter](#jupyter)
+- [Large Language Model](#large-language-model)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
 - [Python](#python)
@@ -54,12 +55,16 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
 
+## Large Language Model
+
+- [vtk-prompt](https://github.com/Kitware/vtk-prompt) - A command-line interface and web-based UI for generating VTK visualization code using Large Language Models
+
 ## Medical imaging
 
 - [Common Toolkit (CTK)](https://github.com/commontk/CTK) - A set of common support code for medical imaging, surgical navigation, and related purposes.
 - [ITK-Wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser and across programming languages and hardware architectures.
 - [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
-- [MITK](<https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)>) - The Medical Imaging Interaction Toolkit.
+- [MITK](https://www.mitk.org/) - The Medical Imaging Interaction Toolkit.
 - [PYCAD](https://github.com/amine0110/pycad) - The Comprehensive Library Designed to Simplify and Streamline Medical Imaging Tasks.
 - [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
 
