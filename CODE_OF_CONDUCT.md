@@ -3,15 +3,14 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Contributor Covenant Code of Conduct](#contributor-covenant-code-of-conduct)
-  - [Our Pledge](#our-pledge)
-  - [Encouraged Behaviors](#encouraged-behaviors)
-  - [Restricted Behaviors](#restricted-behaviors)
-    - [Other Restrictions](#other-restrictions)
-  - [Reporting an Issue](#reporting-an-issue)
-  - [Addressing and Repairing Harm](#addressing-and-repairing-harm)
-  - [Scope](#scope)
-  - [Attribution](#attribution)
+- [Our Pledge](#our-pledge)
+- [Encouraged Behaviors](#encouraged-behaviors)
+- [Restricted Behaviors](#restricted-behaviors)
+  - [Other Restrictions](#other-restrictions)
+- [Reporting an Issue](#reporting-an-issue)
+- [Addressing and Repairing Harm](#addressing-and-repairing-harm)
+- [Scope](#scope)
+- [Attribution](#attribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
