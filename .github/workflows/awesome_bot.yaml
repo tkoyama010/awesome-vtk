@@ -22,4 +22,4 @@ jobs:
       - name: Checks
         run: |
           gem install awesome_bot
-          awesome_bot --allow-redirect --request-delay 1 README.md
+          awesome_bot --allow-redirect --request-delay 1 --white-list "https://github.com/sindresorhus/awesome/blob/main/awesome.md" README.md
