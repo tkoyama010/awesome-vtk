@@ -57,6 +57,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Large Language Model
 
+- [viznoir](https://github.com/kimimgo/viznoir) - Cinema-quality science visualization MCP server. 22 tools for headless rendering, slicing, contouring, volume rendering, and animating OpenFOAM/VTK/CGNS data via VTK. EGL/OSMesa headless.
 - [vtk-prompt](https://github.com/Kitware/vtk-prompt) - A command-line interface and web-based UI for generating VTK visualization code using Large Language Models
 
 ## Medical imaging
