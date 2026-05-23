@@ -1,6 +1,6 @@
 # Awesome VTK ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
 
 <p align="center">
@@ -19,11 +19,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [3D Viewer](#3d-viewer)
 - [Books](#books)
 - [Fortran](#fortran)
 - [Jupyter](#jupyter)
+- [Large Language Model](#large-language-model)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
 - [Python](#python)
@@ -48,18 +50,24 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Fortran
 
+- [fVTKHDF](https://github.com/nncarlson/fvtkhdf) - A modern Fortran library for writing VTKHDF format files.
 - [VTKFortran](https://github.com/szaghi/VTKFortran) - A KISS pure Fortran Library to parse and emit files conforming to VTK (XML) standard.
 
 ## Jupyter
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
 
+## Large Language Model
+
+- [viznoir](https://github.com/kimimgo/viznoir) - Cinema-quality science visualization MCP server. 22 tools for headless rendering, slicing, contouring, volume rendering, and animating OpenFOAM/VTK/CGNS data via VTK. EGL/OSMesa headless.
+- [vtk-prompt](https://github.com/Kitware/vtk-prompt) - A command-line interface and web-based UI for generating VTK visualization code using Large Language Models
+
 ## Medical imaging
 
 - [Common Toolkit (CTK)](https://github.com/commontk/CTK) - A set of common support code for medical imaging, surgical navigation, and related purposes.
 - [ITK-Wasm](https://github.com/InsightSoftwareConsortium/itk-wasm) - High performance spatial analysis in a web browser and across programming languages and hardware architectures.
 - [ITK](https://itk.org/) - ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
-- [MITK](<https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)>) - The Medical Imaging Interaction Toolkit.
+- [MITK](https://www.mitk.org/) - The Medical Imaging Interaction Toolkit.
 - [PYCAD](https://github.com/amine0110/pycad) - The Comprehensive Library Designed to Simplify and Streamline Medical Imaging Tasks.
 - [RTK](https://www.openrtk.org/) - The Reconstruction Toolkit.
 

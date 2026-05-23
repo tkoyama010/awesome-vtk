@@ -68,6 +68,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kimimgo",
+      "name": "Imgyu Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21175731?v=4",
+      "profile": "https://github.com/kimimgo",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "nncarlson",
+      "name": "Neil Carlson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7231327?v=4",
+      "profile": "https://github.com/nncarlson",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
