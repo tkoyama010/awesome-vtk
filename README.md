@@ -28,6 +28,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Large Language Model](#large-language-model)
 - [Medical imaging](#medical-imaging)
 - [Official](#official)
+- [Paper](#paper)
 - [Python](#python)
 - [Related Topics](#related-topics)
 - [Rust](#rust)
@@ -78,6 +79,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Examples](https://examples.vtk.org/site/)
 - [ParaView Documentation](https://docs.paraview.org/)
 - [Repository](https://gitlab.kitware.com/vtk/vtk)
+
+## Paper
+
+- [The design and implementation of an object-oriented toolkit for 3D graphics and visualization](https://ieeexplore.ieee.org/document/567752) - W. J. Schroeder, K. M. Martin and W.
 
 ## Python
 
