@@ -19,7 +19,6 @@ jobs:
         uses: ruby/setup-ruby@13e7a03dc3ac6c3798f4570bfead2aed4d96abfb
         with:
           ruby-version: 2.6.10
+          bundler-cache: true
       - name: Checks
-        run: |
-          gem install awesome_bot
-          awesome_bot --allow-redirect --request-delay 1 --white-list "https://github.com/sindresorhus/awesome/blob/main/awesome.md,https://upload.wikimedia.org" README.md
+        run: bundle exec awesome_bot --allow-redirect --request-delay 1 --white-list "https://github.com/sindresorhus/awesome/blob/main/awesome.md,https://upload.wikimedia.org" README.md
