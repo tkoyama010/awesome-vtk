@@ -69,9 +69,12 @@
         }
         retried = true;
         var source = image.src;
-        window.setTimeout(function () {
-          image.src = source + "?retry=1";
-        }, 800 + Math.random() * 1600);
+        window.setTimeout(
+          function () {
+            image.src = source + "?retry=1";
+          },
+          800 + Math.random() * 1600,
+        );
       });
     },
   );
