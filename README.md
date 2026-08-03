@@ -13,6 +13,8 @@
 
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
+Browse it as a searchable gallery: **[tkoyama010.github.io/awesome-vtk](https://tkoyama010.github.io/awesome-vtk/)**
+
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Contents
