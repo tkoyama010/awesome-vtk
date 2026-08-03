@@ -2,6 +2,7 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
+[![GitHub Pages](https://img.shields.io/github/deployments/tkoyama010/awesome-vtk/github-pages?label=github%20pages)](https://tkoyama010.github.io/awesome-vtk/)
 
 <p align="center">
     <a href="https://vtk.org/">
@@ -12,8 +13,6 @@
 > The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.
 
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
-
-Browse it as a searchable gallery: **[tkoyama010.github.io/awesome-vtk](https://tkoyama010.github.io/awesome-vtk/)**
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
