@@ -190,6 +190,9 @@ def build(readme: Path, template_dir: Path, output: Path) -> int:
     (output / "index.html").write_text(page, encoding="utf-8")
     for asset in ASSETS:
         shutil.copyfile(template_dir / asset, output / asset)
+    # The site is already built, so tell GitHub Pages not to run it through
+    # Jekyll on the way out.
+    (output / ".nojekyll").touch()
     return sum(len(category.entries) for category in categories)
 
 

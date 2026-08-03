@@ -33,6 +33,8 @@ jobs:
           name: gallery-preview
           path: _site
           if-no-files-found: error
+          # Without this the generated .nojekyll marker is dropped.
+          include-hidden-files: true
   deploy:
     # The production site. Previews live in pr-preview/ on the same branch, so
     # they are excluded from the cleanup of removed files.
