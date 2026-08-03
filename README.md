@@ -2,6 +2,7 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
+[![GitHub Pages](https://img.shields.io/github/deployments/tkoyama010/awesome-vtk/github-pages?label=github%20pages)](https://tkoyama010.github.io/awesome-vtk/)
 
 <p align="center">
     <a href="https://vtk.org/">

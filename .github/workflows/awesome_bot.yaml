@@ -21,4 +21,6 @@ jobs:
           ruby-version: 2.6.10
           bundler-cache: true
       - name: Checks
-        run: bundle exec awesome_bot --allow-redirect --request-delay 1 --white-list "https://github.com/sindresorhus/awesome/blob/main/awesome.md,https://upload.wikimedia.org" README.md
+        # tkoyama010.github.io is white listed because the gallery only exists
+        # once GitHub Pages has published it from the default branch.
+        run: bundle exec awesome_bot --allow-redirect --request-delay 1 --white-list "https://github.com/sindresorhus/awesome/blob/main/awesome.md,https://upload.wikimedia.org,https://tkoyama010.github.io" README.md
