@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
   pull_request:
-    branches: ["*"]
+    types: [opened, reopened, synchronize, closed]
   workflow_dispatch:
 permissions: {}
 concurrency:
@@ -11,6 +11,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build-site:
+    if: github.event.action != 'closed'
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -24,23 +25,80 @@ jobs:
           python-version: "3.13"
       - name: Build the gallery
         run: uv run python build_gallery.py --output _site
+      # Downloadable from the run summary. This is how reviewers preview a pull
+      # request opened from a fork, which cannot deploy anywhere.
       - name: Upload the site
-        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
         with:
+          name: gallery-preview
           path: _site
+          if-no-files-found: error
   deploy:
-    # Pages can only be published from the default branch, so every other ref
-    # stops after the build job above.
+    # The production site. Previews live in pr-preview/ on the same branch, so
+    # they are excluded from the cleanup of removed files.
     if: github.ref == 'refs/heads/main'
     needs: build-site
     runs-on: ubuntu-latest
     permissions:
-      id-token: write
-      pages: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      contents: write
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - name: Download the site
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c
+        with:
+          name: gallery-preview
+          path: _site
+      - name: Publish to gh-pages
+        uses: JamesIves/github-pages-deploy-action@d92aa235d04922e8f08b40ce78cc5442fcfbfa2f
+        with:
+          branch: gh-pages
+          folder: _site
+          clean-exclude: pr-preview/
+          commit-message: "chore: publish the gallery for ${{ github.sha }}"
+  preview:
+    # A pull request from a branch in this repository gets its own preview URL,
+    # posted as a comment. A pull request from a fork cannot: its token is read
+    # only, so the gallery-preview artifact above is the fallback.
+    if: >-
+      github.event_name == 'pull_request'
+      && github.event.action != 'closed'
+      && github.event.pull_request.head.repo.full_name == github.repository
+    needs: build-site
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - name: Download the site
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c
+        with:
+          name: gallery-preview
+          path: _site
+      - name: Deploy the preview
+        uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9
+        with:
+          source-dir: _site
+          action: deploy
+  preview-cleanup:
+    # Removes pr-preview/pr-N/ once the pull request is closed or merged.
+    if: >-
+      github.event_name == 'pull_request'
+      && github.event.action == 'closed'
+      && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - name: Remove the preview
+        uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9
+        with:
+          action: remove
