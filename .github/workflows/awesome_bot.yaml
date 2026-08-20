@@ -23,4 +23,6 @@ jobs:
       - name: Checks
         # tkoyama010.github.io is white listed because the gallery only exists
         # once GitHub Pages has published it from the default branch.
-        run: bundle exec awesome_bot --allow-redirect --request-delay 1 --white-list "https://github.com/sindresorhus/awesome/blob/main/awesome.md,https://upload.wikimedia.org,https://tkoyama010.github.io" README.md
+        # gitlab.kitware.com is white listed because GitLab returns 403 to
+        # awesome_bot's user-agent; the link works for real users.
+        run: bundle exec awesome_bot --allow-redirect --request-delay 1 --white-list "https://github.com/sindresorhus/awesome/blob/main/awesome.md,https://upload.wikimedia.org,https://tkoyama010.github.io,https://gitlab.kitware.com/vtk/vtk" README.md
