@@ -1,0 +1,690 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awesome VTK — Gallery</title>
+    <meta
+      name="description"
+      content="A curated gallery of tools, projects and resources built with the Visualization Toolkit (VTK)."
+    />
+    <link
+      rel="icon"
+      href="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <img
+        class="hero__logo"
+        src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg"
+        alt="Visualization Toolkit logo"
+        width="120"
+        height="120"
+      />
+      <h1 class="hero__title">Awesome VTK</h1>
+      <p class="hero__tagline">
+        The Visualization Toolkit (VTK) is open source software for manipulating
+        and displaying scientific data. This gallery is a curated collection of
+        the tools, projects and resources built around it.
+      </p>
+      <p class="hero__stats">
+        <strong>39</strong> entries in
+        <strong>11</strong> categories
+      </p>
+      <p class="hero__links">
+        <a class="button" href="https://github.com/tkoyama010/awesome-vtk"
+          >Repository</a
+        >
+        <a
+          class="button button--ghost"
+          href="https://github.com/tkoyama010/awesome-vtk/blob/main/CONTRIBUTING.md"
+          >Contribute</a
+        >
+      </p>
+    </header>
+
+    <nav class="toolbar" aria-label="Filter the gallery">
+      <label class="search">
+        <span class="search__label">Search the list</span>
+        <input
+          id="search"
+          class="search__input"
+          type="search"
+          placeholder="Search projects, e.g. python, medical, viewer…"
+          autocomplete="off"
+        />
+      </label>
+      <div class="chips" id="chips">        <button class="chip chip--active" type="button" data-filter="all">All</button>
+        <button class="chip" type="button" data-filter="3D Viewer">3D Viewer</button>
+        <button class="chip" type="button" data-filter="Books">Books</button>
+        <button class="chip" type="button" data-filter="Fortran">Fortran</button>
+        <button class="chip" type="button" data-filter="Jupyter">Jupyter</button>
+        <button class="chip" type="button" data-filter="Large Language Model">Large Language Model</button>
+        <button class="chip" type="button" data-filter="Medical imaging">Medical imaging</button>
+        <button class="chip" type="button" data-filter="Official">Official</button>
+        <button class="chip" type="button" data-filter="Python">Python</button>
+        <button class="chip" type="button" data-filter="Related Topics">Related Topics</button>
+        <button class="chip" type="button" data-filter="Rust">Rust</button>
+        <button class="chip" type="button" data-filter="Web">Web</button></div>
+    </nav>
+
+    <main class="content" id="content">
+          <section class="section" id="3d-viewer" data-category="3D Viewer">
+      <h2 class="section__title">
+        3D Viewer
+        <span class="section__count">5</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="3D Viewer" data-search="bvtknodes create and execute vtk pipelines in blender node editor 3d viewer">
+        <a class="card__link" href="https://github.com/tkeskita/BVtkNodes" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 96">
+            <span class="card__monogram" aria-hidden="true">B</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/tkeskita/BVtkNodes" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">BVTKNodes</h3>
+            <p class="card__description">Create and execute VTK pipelines in Blender Node Editor</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="3D Viewer" data-search="f3d fast and minimalist 3d viewer. 3d viewer">
+        <a class="card__link" href="https://github.com/f3d-app/f3d" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 189">
+            <span class="card__monogram" aria-hidden="true">F</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/f3d-app/f3d" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">F3D</h3>
+            <p class="card__description">Fast and minimalist 3D viewer.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="3D Viewer" data-search="gammaray a graphical interface to gslib (geostatistics library) and other geomodeling algorithms. 3d viewer">
+        <a class="card__link" href="https://github.com/PauloCarvalhoRJ/gammaray" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 63">
+            <span class="card__monogram" aria-hidden="true">G</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/PauloCarvalhoRJ/gammaray" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">GammaRay</h3>
+            <p class="card__description">A graphical interface to GSLib (geostatistics library) and other geomodeling algorithms.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="3D Viewer" data-search="paraview vtk-based data analysis and visualization application 3d viewer">
+        <a class="card__link" href="https://github.com/Kitware/ParaView" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 79">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/Kitware/ParaView" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">ParaView</h3>
+            <p class="card__description">VTK-based Data Analysis and Visualization Application</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="3D Viewer" data-search="slicer multi-platform, free open source software for visualization and image computing. 3d viewer">
+        <a class="card__link" href="https://github.com/Slicer/Slicer" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 250">
+            <span class="card__monogram" aria-hidden="true">S</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/Slicer/Slicer" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Slicer</h3>
+            <p class="card__description">Multi-platform, free open source software for visualization and image computing.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="books" data-category="Books">
+      <h2 class="section__title">
+        Books
+        <span class="section__count">2</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Books" data-search="vtk book markdown version of the visualization toolkit book - an object oriented approach to 3d graphics books">
+        <a class="card__link" href="https://github.com/Kitware/vtk-book" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 312">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/Kitware/vtk-book" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">VTK Book</h3>
+            <p class="card__description">Markdown version of the Visualization Toolkit Book - An object Oriented Approach to 3D Graphics</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Books" data-search="vtk-xref sphinx extension for linking directly to vtk&#x27;s documentation. books">
+        <a class="card__link" href="https://github.com/pyvista/vtk-xref" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 103">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/pyvista/vtk-xref" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">vtk-xref</h3>
+            <p class="card__description">Sphinx extension for linking directly to VTK&#x27;s documentation.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="fortran" data-category="Fortran">
+      <h2 class="section__title">
+        Fortran
+        <span class="section__count">2</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Fortran" data-search="fvtkhdf a modern fortran library for writing vtkhdf format files. fortran">
+        <a class="card__link" href="https://github.com/nncarlson/fvtkhdf" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 197">
+            <span class="card__monogram" aria-hidden="true">F</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/nncarlson/fvtkhdf" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">fVTKHDF</h3>
+            <p class="card__description">A modern Fortran library for writing VTKHDF format files.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Fortran" data-search="vtkfortran a kiss pure fortran library to parse and emit files conforming to vtk (xml) standard. fortran">
+        <a class="card__link" href="https://github.com/szaghi/VTKFortran" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 257">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/szaghi/VTKFortran" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">VTKFortran</h3>
+            <p class="card__description">A KISS pure Fortran Library to parse and emit files conforming to VTK (XML) standard.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="jupyter" data-category="Jupyter">
+      <h2 class="section__title">
+        Jupyter
+        <span class="section__count">1</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Jupyter" data-search="jupyterview vtk data visualization extension for jupyterlab jupyter">
+        <a class="card__link" href="https://github.com/trungleduc/jupyterview" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 150">
+            <span class="card__monogram" aria-hidden="true">J</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/trungleduc/jupyterview" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">jupyterview</h3>
+            <p class="card__description">VTK Data visualization extension for JupyterLab</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="large-language-model" data-category="Large Language Model">
+      <h2 class="section__title">
+        Large Language Model
+        <span class="section__count">2</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Large Language Model" data-search="viznoir cinema-quality science visualization mcp server. 22 tools for headless rendering, slicing, contouring, volume rendering, and animating openfoam/vtk/cgns data via vtk. egl/osmesa headless. large language model">
+        <a class="card__link" href="https://github.com/kimimgo/viznoir" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 65">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/kimimgo/viznoir" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">viznoir</h3>
+            <p class="card__description">Cinema-quality science visualization MCP server. 22 tools for headless rendering, slicing, contouring, volume rendering, and animating OpenFOAM/VTK/CGNS data via VTK. EGL/OSMesa headless.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Large Language Model" data-search="vtk-prompt a command-line interface and web-based ui for generating vtk visualization code using large language models large language model">
+        <a class="card__link" href="https://github.com/Kitware/vtk-prompt" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 340">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/Kitware/vtk-prompt" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">vtk-prompt</h3>
+            <p class="card__description">A command-line interface and web-based UI for generating VTK visualization code using Large Language Models</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="medical-imaging" data-category="Medical imaging">
+      <h2 class="section__title">
+        Medical imaging
+        <span class="section__count">6</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Medical imaging" data-search="common toolkit (ctk) a set of common support code for medical imaging, surgical navigation, and related purposes. medical imaging">
+        <a class="card__link" href="https://github.com/commontk/CTK" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 290">
+            <span class="card__monogram" aria-hidden="true">C</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/commontk/CTK" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Common Toolkit (CTK)</h3>
+            <p class="card__description">A set of common support code for medical imaging, surgical navigation, and related purposes.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Medical imaging" data-search="itk-wasm high performance spatial analysis in a web browser and across programming languages and hardware architectures. medical imaging">
+        <a class="card__link" href="https://github.com/InsightSoftwareConsortium/itk-wasm" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 325">
+            <span class="card__monogram" aria-hidden="true">I</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/InsightSoftwareConsortium/itk-wasm" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">ITK-Wasm</h3>
+            <p class="card__description">High performance spatial analysis in a web browser and across programming languages and hardware architectures.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Medical imaging" data-search="itk itk builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions. medical imaging">
+        <a class="card__link" href="https://itk.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 232">
+            <span class="card__monogram" aria-hidden="true">I</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">ITK</h3>
+            <p class="card__description">ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.</p>
+            <p class="card__meta">itk.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Medical imaging" data-search="mitk the medical imaging interaction toolkit. medical imaging">
+        <a class="card__link" href="https://www.mitk.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 309">
+            <span class="card__monogram" aria-hidden="true">M</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">MITK</h3>
+            <p class="card__description">The Medical Imaging Interaction Toolkit.</p>
+            <p class="card__meta">mitk.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Medical imaging" data-search="pycad the comprehensive library designed to simplify and streamline medical imaging tasks. medical imaging">
+        <a class="card__link" href="https://github.com/amine0110/pycad" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 9">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/amine0110/pycad" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">PYCAD</h3>
+            <p class="card__description">The Comprehensive Library Designed to Simplify and Streamline Medical Imaging Tasks.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Medical imaging" data-search="rtk the reconstruction toolkit. medical imaging">
+        <a class="card__link" href="https://www.openrtk.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 241">
+            <span class="card__monogram" aria-hidden="true">R</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">RTK</h3>
+            <p class="card__description">The Reconstruction Toolkit.</p>
+            <p class="card__meta">openrtk.org</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="official" data-category="Official">
+      <h2 class="section__title">
+        Official
+        <span class="section__count">5</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Official" data-search="discourse  official">
+        <a class="card__link" href="http://discourse.vtk.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 225">
+            <span class="card__monogram" aria-hidden="true">D</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Discourse</h3>
+            <p class="card__description"></p>
+            <p class="card__meta">discourse.vtk.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Official" data-search="documentation  official">
+        <a class="card__link" href="https://docs.vtk.org/en/latest/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 290">
+            <span class="card__monogram" aria-hidden="true">D</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Documentation</h3>
+            <p class="card__description"></p>
+            <p class="card__meta">docs.vtk.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Official" data-search="examples  official">
+        <a class="card__link" href="https://examples.vtk.org/site/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 111">
+            <span class="card__monogram" aria-hidden="true">E</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Examples</h3>
+            <p class="card__description"></p>
+            <p class="card__meta">examples.vtk.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Official" data-search="paraview documentation  official">
+        <a class="card__link" href="https://docs.paraview.org/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 41">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">ParaView Documentation</h3>
+            <p class="card__description"></p>
+            <p class="card__meta">docs.paraview.org</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Official" data-search="repository  official">
+        <a class="card__link" href="https://gitlab.kitware.com/vtk/vtk" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 8">
+            <span class="card__monogram" aria-hidden="true">R</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Repository</h3>
+            <p class="card__description"></p>
+            <p class="card__meta">gitlab.kitware.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="python" data-category="Python">
+      <h2 class="section__title">
+        Python
+        <span class="section__count">10</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Python" data-search="dash vtk bringing vtk.js into dash and python python">
+        <a class="card__link" href="https://github.com/plotly/dash-vtk" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 301">
+            <span class="card__monogram" aria-hidden="true">D</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/plotly/dash-vtk" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Dash VTK</h3>
+            <p class="card__description">Bringing vtk.js into Dash and Python</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="geovista cartographic rendering and mesh analytics powered by pyvista python">
+        <a class="card__link" href="https://geovista.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 82">
+            <span class="card__monogram" aria-hidden="true">G</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">GeoVista</h3>
+            <p class="card__description">Cartographic rendering and mesh analytics powered by PyVista</p>
+            <p class="card__meta">geovista.readthedocs.io</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="mayavi 3d visualization of scientific data in python python">
+        <a class="card__link" href="https://github.com/enthought/mayavi" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 255">
+            <span class="card__monogram" aria-hidden="true">M</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/enthought/mayavi" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Mayavi</h3>
+            <p class="card__description">3D visualization of scientific data in Python</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="meshio input/output for many mesh formats python">
+        <a class="card__link" href="https://github.com/nschloe/meshio" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 285">
+            <span class="card__monogram" aria-hidden="true">M</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/nschloe/meshio" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">meshio</h3>
+            <p class="card__description">input/output for many mesh formats</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="pyvista 3d plotting and mesh analysis through a streamlined interface for the visualization toolkit (vtk) python">
+        <a class="card__link" href="https://github.com/pyvista/pyvista" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 0">
+            <span class="card__monogram" aria-hidden="true">P</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/pyvista/pyvista" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">PyVista</h3>
+            <p class="card__description">3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="spinview spinview: general interactive visual analysis tool for multi-scale computational magnetism python">
+        <a class="card__link" href="https://github.com/MXJK851/SpinView" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 101">
+            <span class="card__monogram" aria-hidden="true">S</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/MXJK851/SpinView" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">SpinView</h3>
+            <p class="card__description">SpinView: General interactive visual analysis tool for multi-scale computational magnetism</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="trame trame lets you weave various components and technologies into a web application solely written in python. python">
+        <a class="card__link" href="https://github.com/Kitware/trame" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 145">
+            <span class="card__monogram" aria-hidden="true">T</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/Kitware/trame" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Trame</h3>
+            <p class="card__description">Trame lets you weave various components and technologies into a Web Application solely written in Python.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="ttk topological data analysis and visualization python">
+        <a class="card__link" href="https://github.com/topology-tool-kit/ttk" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 243">
+            <span class="card__monogram" aria-hidden="true">T</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/topology-tool-kit/ttk" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">TTK</h3>
+            <p class="card__description">Topological Data Analysis and Visualization</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="vedo a python module for scientific analysis of 3d data based on vtk and numpy python">
+        <a class="card__link" href="https://github.com/marcomusy/vedo" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 70">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/marcomusy/vedo" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">vedo</h3>
+            <p class="card__description">A python module for scientific analysis of 3D data based on VTK and Numpy</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Python" data-search="vtkbool a new boolean operations filter for vtk python">
+        <a class="card__link" href="https://github.com/zippy84/vtkbool" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 49">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/zippy84/vtkbool" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">vtkbool</h3>
+            <p class="card__description">A new boolean operations filter for VTK</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="related-topics" data-category="Related Topics">
+      <h2 class="section__title">
+        Related Topics
+        <span class="section__count">4</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Related Topics" data-search="awesome finite element method (fem) a curated list of awesome stuff related to finite element analysis (fea) software for structural engineering related topics">
+        <a class="card__link" href="https://github.com/tkoyama010/awesome-finite-elements" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 196">
+            <span class="card__monogram" aria-hidden="true">A</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/tkoyama010/awesome-finite-elements" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Awesome Finite Element Method (FEM)</h3>
+            <p class="card__description">A curated list of awesome stuff related to Finite Element Analysis (FEA) Software for Structural Engineering</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Related Topics" data-search="awesome pyvista a curated list of awesome stuff related to pyvista related topics">
+        <a class="card__link" href="https://github.com/pyvista/awesome-pyvista" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 33">
+            <span class="card__monogram" aria-hidden="true">A</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/pyvista/awesome-pyvista" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Awesome PyVista</h3>
+            <p class="card__description">A curated list of awesome stuff related to PyVista</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Related Topics" data-search="awesome scientific-visualization a curated list of awesome stuff related to scientific-visualization related topics">
+        <a class="card__link" href="https://github.com/tkoyama010/awesome-scientific-visualization" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 41">
+            <span class="card__monogram" aria-hidden="true">A</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/tkoyama010/awesome-scientific-visualization" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Awesome scientific-visualization</h3>
+            <p class="card__description">A curated list of awesome stuff related to scientific-visualization</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      <article class="card" data-category="Related Topics" data-search="wikipedia the free encyclopedia that anyone can edit. related topics">
+        <a class="card__link" href="https://en.wikipedia.org/wiki/VTK" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 199">
+            <span class="card__monogram" aria-hidden="true">W</span>
+            
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">Wikipedia</h3>
+            <p class="card__description">The free encyclopedia that anyone can edit.</p>
+            <p class="card__meta">en.wikipedia.org</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="rust" data-category="Rust">
+      <h2 class="section__title">
+        Rust
+        <span class="section__count">1</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Rust" data-search="vtkio a parser and writer for the visualization toolkit (vtk) file formats. rust">
+        <a class="card__link" href="https://github.com/elrnv/vtkio" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 197">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/elrnv/vtkio" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">vtkio</h3>
+            <p class="card__description">A parser and writer for the Visualization Toolkit (VTK) file formats.</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="web" data-category="Web">
+      <h2 class="section__title">
+        Web
+        <span class="section__count">1</span>
+      </h2>
+      <div class="grid">
+      <article class="card" data-category="Web" data-search="vtk-js visualization toolkit for the web web">
+        <a class="card__link" href="https://github.com/Kitware/vtk-js" target="_blank" rel="noopener noreferrer">
+          <div class="card__thumb" style="--hue: 247">
+            <span class="card__monogram" aria-hidden="true">V</span>
+            <img class="card__image" src="https://opengraph.githubassets.com/awesome-vtk/Kitware/vtk-js" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="card__body">
+            <h3 class="card__title">vtk-js</h3>
+            <p class="card__description">Visualization Toolkit for the Web</p>
+            <p class="card__meta">github.com</p>
+          </div>
+        </a>
+      </article>
+      </div>
+    </section>
+      <p class="empty" id="empty" hidden>No entry matches your search.</p>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Generated from
+        <a href="https://github.com/tkoyama010/awesome-vtk/blob/main/README.md"
+          >README.md</a
+        >. Content released under
+        <a href="https://github.com/tkoyama010/awesome-vtk/blob/main/LICENSE"
+          >CC0 1.0</a
+        >.
+      </p>
+      <p>
+        Preview images are served by GitHub. Missing something? Open a pull
+        request.
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
