@@ -2,6 +2,7 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/awesome-vtk?color=ee8449)
+[![GitHub Pages](https://img.shields.io/github/deployments/tkoyama010/awesome-vtk/github-pages?label=github%20pages)](https://tkoyama010.github.io/awesome-vtk/)
 
 <p align="center">
     <a href="https://vtk.org/">
@@ -18,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [3D Viewer](#3d-viewer)
@@ -49,6 +51,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Fortran
 
+- [fVTKHDF](https://github.com/nncarlson/fvtkhdf) - A modern Fortran library for writing VTKHDF format files.
 - [VTKFortran](https://github.com/szaghi/VTKFortran) - A KISS pure Fortran Library to parse and emit files conforming to VTK (XML) standard.
 
 ## Jupyter
@@ -57,6 +60,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Large Language Model
 
+- [viznoir](https://github.com/kimimgo/viznoir) - Cinema-quality science visualization MCP server. 22 tools for headless rendering, slicing, contouring, volume rendering, and animating OpenFOAM/VTK/CGNS data via VTK. EGL/OSMesa headless.
 - [vtk-prompt](https://github.com/Kitware/vtk-prompt) - A command-line interface and web-based UI for generating VTK visualization code using Large Language Models
 
 ## Medical imaging
@@ -85,7 +89,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [SpinView](https://github.com/MXJK851/SpinView) - SpinView: General interactive visual analysis tool for multi-scale computational magnetism
 - [Trame](https://github.com/Kitware/trame) - Trame lets you weave various components and technologies into a Web Application solely written in Python.
-- [TTK](https://github.com/topology-tool-kit) - Topological Data Analysis and Visualization
+- [TTK](https://github.com/topology-tool-kit/ttk) - Topological Data Analysis and Visualization
 - [vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [vtkbool](https://github.com/zippy84/vtkbool) - A new boolean operations filter for VTK
 

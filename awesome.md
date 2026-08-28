@@ -10,6 +10,7 @@ But **what is awesome?**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Choose an appropriate license](#choose-an-appropriate-license)
   - [Software](#software)

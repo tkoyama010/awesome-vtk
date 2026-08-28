@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awesome VTK — Gallery</title>
+    <meta
+      name="description"
+      content="A curated gallery of tools, projects and resources built with the Visualization Toolkit (VTK)."
+    />
+    <link
+      rel="icon"
+      href="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <img
+        class="hero__logo"
+        src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg"
+        alt="Visualization Toolkit logo"
+        width="120"
+        height="120"
+      />
+      <h1 class="hero__title">Awesome VTK</h1>
+      <p class="hero__tagline">
+        The Visualization Toolkit (VTK) is open source software for manipulating
+        and displaying scientific data. This gallery is a curated collection of
+        the tools, projects and resources built around it.
+      </p>
+      <p class="hero__stats">
+        <strong>{{ENTRY_COUNT}}</strong> entries in
+        <strong>{{CATEGORY_COUNT}}</strong> categories
+      </p>
+      <p class="hero__links">
+        <a class="button" href="https://github.com/tkoyama010/awesome-vtk"
+          >Repository</a
+        >
+        <a
+          class="button button--ghost"
+          href="https://github.com/tkoyama010/awesome-vtk/blob/main/CONTRIBUTING.md"
+          >Contribute</a
+        >
+      </p>
+    </header>
+
+    <nav class="toolbar" aria-label="Filter the gallery">
+      <label class="search">
+        <span class="search__label">Search the list</span>
+        <input
+          id="search"
+          class="search__input"
+          type="search"
+          placeholder="Search projects, e.g. python, medical, viewer…"
+          autocomplete="off"
+        />
+      </label>
+      <div class="chips" id="chips">{{FILTERS}}</div>
+    </nav>
+
+    <main class="content" id="content">
+      {{SECTIONS}}
+      <p class="empty" id="empty" hidden>No entry matches your search.</p>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Generated from
+        <a href="https://github.com/tkoyama010/awesome-vtk/blob/main/README.md"
+          >README.md</a
+        >. Content released under
+        <a href="https://github.com/tkoyama010/awesome-vtk/blob/main/LICENSE"
+          >CC0 1.0</a
+        >.
+      </p>
+      <p>
+        Preview images are served by GitHub. Missing something? Open a pull
+        request.
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

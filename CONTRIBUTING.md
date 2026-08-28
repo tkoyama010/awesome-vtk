@@ -4,6 +4,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Adding an awesome list](#adding-an-awesome-list)
 - [Creating your own awesome list](#creating-your-own-awesome-list)
