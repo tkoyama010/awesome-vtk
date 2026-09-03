@@ -95,6 +95,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "artur-trzesiok",
+      "name": "artur-trzesiok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5256837?v=4",
+      "profile": "http://cubeproject.pl",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
