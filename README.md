@@ -57,6 +57,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Jupyter
 
 - [jupyterview](https://github.com/trungleduc/jupyterview) - VTK Data visualization extension for JupyterLab
+- [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting for Jupyter, renders VTK objects alongside meshes, volumes, voxels and point clouds
 
 ## Large Language Model
 
