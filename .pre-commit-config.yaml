@@ -12,8 +12,10 @@ repos:
     hooks:
       - id: codespell
         args: ["-L", "socio-economic"]
-  - repo: https://github.com/prettier/prettier
-    rev: 3.6.2
+  # mirrors-prettier is archived but still the only hook source for prettier;
+  # zizmor archived-uses finding accepted until removal.
+  - repo: https://github.com/pre-commit/mirrors-prettier # zizmor: ignore[archived-uses]
+    rev: v4.0.0-alpha.8
     hooks:
       - id: prettier
         types_or: [yaml, markdown, html, css, scss, javascript, json]
